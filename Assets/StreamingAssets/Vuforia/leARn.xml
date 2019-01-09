@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="leARnN2" size="1.000000 1.293371" />
+    <ImageTarget name="leARnN1" size="1.000000 1.293371" />
+    <ImageTarget name="leARnC" size="1.000000 1.293300" />
+    <ImageTarget name="leARnO2" size="1.000000 1.293300" />
+    <ImageTarget name="leARnO1" size="1.000000 1.293300" />
+    <ImageTarget name="leARnH2" size="1.000000 1.293300" />
+    <ImageTarget name="leARnH1" size="1.000000 1.293300" />
+    <ImageTarget name="leARnCl" size="1.000000 1.293300" />
+    <ImageTarget name="leARnNa" size="1.000000 1.293300" />
+  </Tracking>
+</QCARConfig>
